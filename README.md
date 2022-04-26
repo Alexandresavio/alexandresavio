@@ -1,6 +1,6 @@
   <div>
   <h1 align="center">Oi Tudo bem? Eu sou o <a href="https://www.linkedin.com/in/savioti-qa-tester-quality-assurance-test-automation-manual-tester/"><i>Savio Alexandre</i></a> 😃️</h1>
-  <p align="center">Estudo Engenharia de software na faculdade <a href="https://portal.uniasselvi.com.br/"><i>UNiasselvi</i></a> 
+  <p align="center">Estudo Engenharia de software na faculdade <a href="https://portal.uniasselvi.com.br/"><i>Uniasselvi</i></a> 
 
 
 
