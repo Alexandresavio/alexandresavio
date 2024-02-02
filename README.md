@@ -1,14 +1,14 @@
   <div>
   <h1 align="center">Oi Tudo bem? Eu sou o <a href="https://www.linkedin.com/in/savioti-qa-tester-quality-assurance-test-automation-manual-tester/"><i>Savio Alexandre</i></a> 😃️</h1>
   <p align="center">Estudo Engenharia de software na faculdade <a href="https://portal.uniasselvi.com.br/"><i>Uniasselvi</i></a> 
-
+<!--
 <div align="center">
   <a href="https://github.com/Alexandresavio">
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Alexandresavio&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alexandresavio&theme=dracula&hide_border=false&&layout=compact"/>
   </a>
 </div>
-
+-->
 <div align="center" valign="top"><br>
   <img align="center" alt="Selenium" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" />          
   <img align="center" alt="Java" height="60" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
